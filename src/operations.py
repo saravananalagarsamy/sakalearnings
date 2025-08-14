@@ -19,5 +19,5 @@ def operations():
 def pass_fail():
     print("This function checks pass or fail status based on score.")
 
-
+pass_fail()
 operations()    
