@@ -1,9 +1,11 @@
+# This is a sample Python script demonstrating list operations.
+# mutable, most flexible
 names  = ["ska", "mka", "lka", "ska", "mka", "lka"]
 
 
 names.append("kaka")
 names.remove("ska")
-names.pop(2)
+names.pop(3)
 
 for name in names:
     print(name)
